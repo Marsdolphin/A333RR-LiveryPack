@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Turkish Airlines (TC-JNK)</name>
+				<texture>Liveries/A333RR/THY4.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
